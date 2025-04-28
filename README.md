@@ -29,5 +29,5 @@ Aqui compartilho meus estudos, projetos e certificações.
 
 ## 🚀 Contato
 
-- [LinkedIn](#): *https://www.linkedin.com/in/gustavo-marques-5a3723294/*
+- [LinkedIn](#): (*https://www.linkedin.com/in/gustavo-marques-5a3723294/*)
 - 📧 Email: *(gutosantosx@gmail.com)*
