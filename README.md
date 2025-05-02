@@ -10,7 +10,8 @@ Aqui compartilho meus estudos, projetos e certificações.
 - 📜 **Delphi: explorando a linguagem**  
 - 📜 **Git e GitHub: compartilhando e colaborando em projetos**  
 - 📜 **Lógica de programação: explore funções e listas**  
-- 📜 **Lógica de programação: mergulhe em programação com JavaScript**  
+- 📜 **Lógica de programação: mergulhe em programação com JavaScript**
+- 📜 **Lógica de programação: praticando com desafios**   
 - 📜 **Microsoft SQL Server 2022: conhecendo SQL**
 
 ## 🚀 Tecnologias e Ferramentas
