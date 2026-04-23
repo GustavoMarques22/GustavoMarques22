@@ -12,30 +12,6 @@
 
 ---
 
-## 🚀 Sobre Mim
-
-```typescript
-const gustavo = {
-  codigo: "Desenvolvedor Full-Stack",
-  localizacao: "Brasil",
-  foco: ["Backend", "Frontend", "Arquitetura de Software"],
-  trabalhando_com: {
-    backend: ["Java", "Spring Boot", "Node.js", "TypeScript"],
-    frontend: ["React", "React Native", "Thymeleaf"],
-    databases: ["Oracle", "PostgreSQL", "MySQL"],
-    ferramentas: ["Docker", "Git", "Maven", "IntelliJ IDEA"]
-  },atualmente: {
-      estudando: "Java Avançado, Design Patterns, Clean Architecture",
-      aprimorando: "Testes Unitários, Microsserviços",
-      explorando: "Spring Cloud, Kubernetes"
-  },destaques: {
-    projetos_pessoais: "Full-Stack completos"
-  }
-};
-```
-
----
-
 ## 💼 Experiência
 
 ### Desenvolvedor Full-Stack
@@ -333,7 +309,6 @@ Desenvolvimento:
   - Integração com sistemas externos
 
 Documentação:
-  - 18.000+ palavras de documentação técnica
   - Guias de setup e arquitetura
   - Troubleshooting guides
 
