@@ -1,14 +1,9 @@
-```markdown
 <div align="center">
   <h1>👋 Olá, eu sou o Gustavo Marques</h1>
-  <h2>Desenvolvedor Full-Stack | Java + Spring Boot + Node.js + React</h2>
-  
-  <p>
+  <h2>Desenvolvedor Full-Stack | Java + Spring Boot + Node.js + React</h2>  <p>
     Desenvolvedor Full-Stack especializado em <strong>Java/Spring Boot</strong>, <strong>Node.js/TypeScript</strong> e <strong>React</strong>.<br/>
     Experiência em sistemas corporativos de alta complexidade, arquitetura multi-tenant e bancos de dados relacionais.
-  </p>
-  
-  <p>
+  </p>  <p>
     <a href="https://www.linkedin.com/in/gustavo-marques-5a3723294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:gutosantosx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/GustavoMarques22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -24,23 +19,16 @@ const gustavo = {
   codigo: "Desenvolvedor Full-Stack",
   localizacao: "Brasil",
   foco: ["Backend", "Frontend", "Arquitetura de Software"],
-  
   trabalhando_com: {
     backend: ["Java", "Spring Boot", "Node.js", "TypeScript"],
     frontend: ["React", "React Native", "Thymeleaf"],
     databases: ["Oracle", "PostgreSQL", "MySQL"],
     ferramentas: ["Docker", "Git", "Maven", "IntelliJ IDEA"]
-  },
-  
-  atualmente: {
-    estudando: "Java Avançado, Design Patterns, Clean Architecture",
-    aprimorando: "Testes Unitários, Microsserviços",
-    explorando: "Spring Cloud, Kubernetes"
-  },
-  
-  destaques: {
-    sistemas_em_producao: "Múltiplos",
-    linhas_de_documentacao: "18.000+",
+  },atualmente: {
+      estudando: "Java Avançado, Design Patterns, Clean Architecture",
+      aprimorando: "Testes Unitários, Microsserviços",
+      explorando: "Spring Cloud, Kubernetes"
+  },destaques: {
     projetos_pessoais: "Full-Stack completos"
   }
 };
@@ -143,7 +131,7 @@ Desenvolvimento e manutenção de sistemas corporativos de alta complexidade com
 ## 📂 Projetos em Destaque
 
 ### 🏢 Sistema Corporativo Multi-Tenant
-**Stack:** `Java 11` · `Spring Boot` · `JPA/Hibernate` · `Oracle` · `Thymeleaf`
+**Stack:** `Java 21` · `Spring Boot` · `JPA/Hibernate` · `Oracle` · `Thymeleaf`
 
 Sistema empresarial de alta complexidade com arquitetura multi-tenant.
 
