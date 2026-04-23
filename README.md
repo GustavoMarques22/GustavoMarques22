@@ -68,7 +68,7 @@ Desenvolvimento e manutenção de sistemas corporativos de alta complexidade com
 - Documentação técnica detalhada
 
 **Stack Técnico:**
-`Java 11` · `Spring Boot` · `JPA/Hibernate` · `Oracle` · `Thymeleaf` · `JavaScript` · `Maven` · `Docker` · `Git`
+`Java 21` · `Spring Boot` · `JPA/Hibernate` · `Oracle` · `Thymeleaf` · `JavaScript` · `Maven` · `Docker` · `Git`
 
 ---
 
