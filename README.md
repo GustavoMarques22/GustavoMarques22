@@ -337,14 +337,9 @@ Estou sempre aberto a novos desafios, colaborações e oportunidades!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GustavoMarques22&color=blue&style=for-the-badge&label=Visualizações" alt="Profile Views"/>
-</div>
-
-<div align="center">
   <sub>⭐ Desenvolvedor Full-Stack apaixonado por criar soluções robustas e escaláveis</sub>
 </div>
 
 <div align="center">
   <sub>Feito com ❤️ por <a href="https://github.com/GustavoMarques22">Gustavo Marques</a></sub>
 </div>
-```
