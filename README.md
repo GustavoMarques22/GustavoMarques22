@@ -35,8 +35,7 @@ Atuo no desenvolvimento e manutenção de sistemas corporativos, com foco em API
 
 <tr><td colspan="8" align="center"><sub><b>🎨 FRONTEND</b></sub></td></tr>
 <tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub>React</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native"/><br/><sub>React Native</sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub>React / RN</sub></td>
 <td align="center" width="90"><img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" height="28" alt="Thymeleaf"/><br/><sub>Thymeleaf</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub>HTML5</sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub>CSS3</sub></td>
@@ -94,21 +93,16 @@ Engenharia de Software (em andamento) · Formação Java — Rocketseat (em anda
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GustavoMarques22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarques22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<br/><br/>
-
 **🗂️ Resumo do perfil**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMarques22&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMarques22&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMarques22&theme=tokyonight" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMarques22&theme=tokyonight" width="400"/>
 
 <br/><br/>
 
 **💻 Linguagens mais usadas por repositório**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoMarques22&theme=tokyonight" width="440"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoMarques22&theme=tokyonight" width="400"/>
 
 </div>
 
