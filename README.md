@@ -1,8 +1,9 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:58A6FF&height=200&section=header&text=Gustavo%20Marques&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Node.js%20%C2%B7%20React&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+eu+sou+o+Gustavo+%F0%9F%91%8B;Construo+sistemas+corporativos+robustos;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+eu+sou+o+Gustavo+%F0%9F%91%8B;Full-Stack+Developer;Trabalho+com+sistemas+multi-tenant+de+grande+escala;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=750&height=50&duration=3000&pause=800&color=58A6FF&vCenter=true" alt="Typing SVG"/>
 
 Desenvolvedor full-stack com experiência em sistemas corporativos de alta complexidade, arquitetura multi-tenant e bancos de dados relacionais.
 
@@ -95,7 +96,6 @@ Engenharia de Software (em andamento) · Formação Java — Rocketseat (em anda
 
 **🗂️ Resumo do perfil**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMarques22&theme=tokyonight" width="400"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoMarques22&theme=tokyonight" width="400"/>
 
 <br/><br/>
